@@ -9,7 +9,7 @@
   left: 0;
   overflow: hidden;
   white-space: nowrap;
-  color: blue;
+  color: #fff;
 }
 
 .star-wrapper::before, .stars::before {

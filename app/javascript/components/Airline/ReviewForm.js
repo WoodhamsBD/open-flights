@@ -12,7 +12,7 @@ const RatingContainer = styled.div`
   font-size: 18px;
   padding: 40px 0 10px 0;
   border: 1px solid #e6e6e6;
-  background: blue;
+  background: #fff;
 `
 const RatingBox = styled.div`
   background: #fff;
